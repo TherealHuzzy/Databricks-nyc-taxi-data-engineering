@@ -1,0 +1,92 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+#Jupyter
+.ipynb_checkpoints/
+
+# ==============================
+# VS Code
+# ==============================
+
+.vscode/
+
+# ==============================
+# Databricks
+# ==============================
+
+.databricks/
+.databricks-connect/
+dbfs/
+
+# Databricks bundle state
+.bundle/
+
+# ==============================
+# Logs
+# ==============================
+
+*.Logs
+logs/
+
+# ==============================
+# Environment Variables
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+# OS Files
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Temporary Files
+# ==============================
+
+*.tmp 
+*.swp
+*.bak
+
+# ==============================
+# Spark
+# ==============================
+
+metastore_db/
+spark-warehouse/
+
+# ==============================
+# Local Data
+# ==============================
+
+data/raw/
+data/temp/
