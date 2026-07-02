@@ -301,30 +301,6 @@ Potential enhancements include:
 
 ---
 
-# 📸 Project Screenshots
-
-## Dashboard
-
-![Screenshot 2026-07-01 at 8.33.02 PM_1783004527948.png](./Screenshot 2026-07-01 at 8.33.02 PM_1783004527948.png "Screenshot 2026-07-01 at 8.33.02 PM_1783004527948.png")
-
----
-
-## Databricks Workflow
-
-![Screenshot 2026-07-02 at 1.39.43 PM_1783004687010.png](./Screenshot 2026-07-02 at 1.39.43 PM_1783004687010.png "Screenshot 2026-07-02 at 1.39.43 PM_1783004687010.png")
-
-![Screenshot 2026-07-02 at 1.40.18 PM_1783004702610.png](./Screenshot 2026-07-02 at 1.40.18 PM_1783004702610.png "Screenshot 2026-07-02 at 1.40.18 PM_1783004702610.png")
-
-![Screenshot 2026-07-02 at 1.40.39 PM_1783004716943.png](./Screenshot 2026-07-02 at 1.40.39 PM_1783004716943.png "Screenshot 2026-07-02 at 1.40.39 PM_1783004716943.png")
-
----
-
-## GitHub Actions
-
-![Screenshot 2026-07-02 at 2.01.48 PM_1783004754657.png](./Screenshot 2026-07-02 at 2.01.48 PM_1783004754657.png "Screenshot 2026-07-02 at 2.01.48 PM_1783004754657.png")
-
----
-
 # ⭐ Acknowledgements
 
 Dataset provided by the New York City Taxi & Limousine Commission (TLC).
