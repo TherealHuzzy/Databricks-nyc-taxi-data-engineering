@@ -69,48 +69,6 @@ Data Used:
 
 ---
 
-# 📁 Project Structure
-
-```text
-nyc-taxi-data-engineering/
-
-├── .github/
-│ └── workflows/
-│ └── ci.yml
-│
-├── config/
-├── data/
-│ ├── bronze/
-│ ├── silver/
-│ └── gold/
-│
-├── docs/
-│ ├── architecture.png
-│ └── dashboard.png
-│
-├── notebooks/
-│ ├── 01_ingestion
-│ ├── 02_bronze_layer
-│ ├── 03_silver_layer
-│ ├── 04_gold_layer
-│ └── 05_data_quality
-│
-├── resources/
-├── scripts/
-├── src/
-│ ├── ingestion/
-│ ├── transformations/
-│ ├── validation/
-│ └── utils/
-│
-├── tests/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
 
 # 🥉 Bronze Layer
 
