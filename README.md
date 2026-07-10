@@ -29,36 +29,8 @@ The objective of this project is to showcase production-oriented data engineerin
 
 The pipeline follows the Medallion Architecture pattern.
 
-```
-NYC Taxi Dataset
-│
-▼
-01 Ingestion
-│
-▼
-Bronze Layer
-(Raw Delta Data)
-│
-▼
-Silver Layer
-(Cleaned & Validated Data)
-│
-▼
-Gold Layer
-(Business Aggregations)
-│
-▼
-Data Quality Validation
-│
-▼
-Databricks SQL Dashboard
-│
-▼
-GitHub Repository
-│
-▼
-GitHub Actions (CI)
-```
+<img width="1536" height="1024" alt="Databricks" src="https://github.com/user-attachments/assets/34330186-391d-4c9e-9825-52a04f033abf" />
+
 
 ---
 
@@ -206,23 +178,17 @@ The ETL pipeline is orchestrated using Databricks Workflows.
 
 Pipeline execution order:
 
-```
-01_ingestion
-↓
-02_bronze_layer
-↓
-03_silver_layer
-↓
-04_gold_layer
-↓
-05_data_quality
-```
+<img width="1253" height="773" alt="Screenshot 2026-07-02 at 1 39 43 PM" src="https://github.com/user-attachments/assets/e9fc8988-62c8-495e-8209-fce64eeb2648" />
+
 
 The workflow executes automatically according to the configured schedule.
 
 ---
 
 # 📊 Dashboard
+
+<img width="1443" height="728" alt="Screenshot 2026-07-01 at 8 33 02 PM" src="https://github.com/user-attachments/assets/c5b8e642-5d09-48d7-b8e5-8a518a5f2819" />
+
 
 The Databricks SQL Dashboard provides business insights including:
 
